@@ -55,6 +55,6 @@ hs_err_pid*
 
 build/
 dist/
+nbproject/
 nbproject/private
 
->>>>>>> abfa292f5619f8a2e23f3196dd9a3dfd1461f132
